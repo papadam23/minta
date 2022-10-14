@@ -1,0 +1,35 @@
+table,tr  {
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-color:rgb(226,239,218)
+}
+thead{
+    background-color: rgb(112, 173,71);
+    border-collapse: collapse;
+    color:white
+}
+ 
+    
+ 
+
+
+ 
+ 
+
+ tbody tr:nth-child(even) {
+    background-color:rgb(226,239,218)
+}
+
+ tbody tr:nth-child(odd) {
+    
+    background-color:white
+}
+
+tfoot{
+    background-color:rgb(255,242,204)
+}
+
+    
+table{
+    width: 50;
+}
