@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient( to right ,#7db9e8 , #1e5799 );
+
+}
+
+h1 {
+    font-family: Georgia;
+    font-size: 16pt;
+    color:#2f4f4f
+}
+h2{
+    font-family: Arial;
+    font-size: 16pt;
+    color:#2f4f4f
+}
